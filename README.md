@@ -1,2 +1,7 @@
 # TestTask1
-Test Task
+
+Clone repository 
+npm install cypress --save-dev
+npm install mochawesome
+
+Run tests via npm run cy:run
