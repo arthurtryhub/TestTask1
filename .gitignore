@@ -1,0 +1,12 @@
+# dependencies and test results
+/node_modules
+/cypress/videos
+/cypress/downloads
+/cypress/screenshots
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

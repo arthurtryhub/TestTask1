@@ -1,0 +1,21 @@
+{
+  "name": "cypressudemyproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2e.js",
+  "scripts": {
+    "cy:run": "cypress run --reporter mochawesome",
+    "cy:open": "cypress open "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^5.1.7",
+    "cypress": "^13.10.0",
+    "faker": "5.5.1"
+  },
+  "dependencies": {
+    "mocha": "^10.4.0",
+    "mochawesome": "^7.1.3"
+  }
+}
